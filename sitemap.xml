@@ -5,4 +5,28 @@
     <loc>https://web-automation.github.io/</loc>
   </url>
 
+  <url>
+    <loc>https://web-automation.github.io/projects/</loc>
+  </url>
+
+  <url>
+    <loc>https://web-automation.github.io/projects/hisaab/</loc>
+  </url>
+
+  <url>
+    <loc>https://web-automation.github.io/projects/pg-orchestrator-simulator/</loc>
+  </url>
+
+  <url>
+    <loc>https://web-automation.github.io/projects/pm-docstudio/</loc>
+  </url>
+
+  <url>
+    <loc>https://web-automation.github.io/projects/pm-problem-solving-prompt-builder/</loc>
+  </url>
+
+  <url>
+    <loc>https://web-automation.github.io/projects/website-testing-automation/</loc>
+  </url>
+
 </urlset>
